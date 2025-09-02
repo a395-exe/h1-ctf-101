@@ -36,3 +36,4 @@ After altering the parameter and sending it back to the server, instead of rejec
 The response reveals the hidden flag:
 
 ^FLAG^5ed665e93f7d6c29b071f7005200ba6d6e1ef74b3303eea93c5393ada5e2a918$FLAG$
+![Burp Intercept Screenshot](Screenshot 2025-09-02 122800.png)
